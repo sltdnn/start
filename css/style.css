@@ -1,0 +1,15 @@
+header {
+  background-color: #ca7070;
+}
+
+h1 {
+  color: blue;
+}
+
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-size: 10px;
+}
